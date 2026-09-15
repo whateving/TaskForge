@@ -4,6 +4,10 @@ TaskForge is a distributed background job processing system built with Python, F
 
 The project focuses on reliability, fault recovery, concurrency, idempotency, retries, observability, and operational recovery.
 
+## Demo
+
+![TaskForge Demo](docs/demo-test.gif)
+
 ## Architecture
 
 ```text
